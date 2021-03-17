@@ -1,0 +1,561 @@
+
+amazing fonts
+1600px * 4450px
+
+
+
+HERO
+
+
+Amazing Dude. Amazing life
+
+font-size: 72px;
+letter-spacing: -2px;
+color: #000000;
+font-family: "Fira Sans";
+font-weight: 300;
+
+
+Welcome to the
+
+font-size: 30px;
+letter-spacing: -1px;
+line-height: 45px;
+color: #000000;
+font-family: "Fira Sans";
+font-weight: 300;
+
+
+Slanted
+
+width: 1129px;
+height: 900px;
+background-color: #42b7c8;
+
+
+Hero Image
+
+background-color: #1fe1ed;
+
+
+Container
+
+width: 1600px;
+height: 900px;
+background-color: #ffffff;
+
+
+
+
+
+
+
+HEADER
+
+
+/.
+
+font-size: 60px;
+color: #ffffff;
+font-family: "Fira Sans";
+font-weight: 800;
+text-align: center;
+
+
+Container
+
+width: 80px;
+height: 80px;
+background-color: #000000;
+
+
+Menu (text)
+
+font-size: 12px;
+color: #141414;
+font-family: "Fira Sans";
+font-weight: 100;
+text-align: center;
+
+
+Menu (button)
+
+font-size: 30px;
+letter-spacing: -1px;
+color: #141414;
+font-family: "Font Awesome";
+text-align: right;
+
+
+☰	&#9776;	\2630	Триграмма
+
+
+
+
+
+ABOUT
+
+
+RIGHT COLUMN
+
+Sed faucibus quis
+
+font-size: 24px;
+color: #666666;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+Fusce bibendum luctus
+
+font-size: 36px;
+letter-spacing: -1px;
+color: #666666;
+font-family: "Fira Sans";
+font-weight: 300;
+
+
+Container
+
+width: 800px;
+height: 500px;
+background-color: #f3f1ef;
+
+
+LEFT COLUMN
+
+
+PHOTO
+
+background-color: #ed1f24;
+
+
+Container
+
+width: 800px;
+height: 500px;
+background-color: #f86c09;
+
+
+
+
+
+
+
+GALLERY
+
+
+Instagram (text)
+
+font-size: 24px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+Etiam lacus dolor
+
+font-size: 24px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+View on Instagram (text)
+
+font-size: 18px;
+letter-spacing: 4px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 700;
+text-align: center;
+
+
+Button
+
+width: 280px;
+height: 56px;
+border-radius: 28px;
+background-color: #25a8ee;
+border: 1.87px solid #ffffff;
+
+
+Container
+
+width: 800px;
+height: 515px;
+background-color: #3f729b;
+
+
+1st - Container (Photo 1)
+
+width: 400px;
+height: 515px;
+background-color: #25a8ee;
+
+
+2nd - Container (Photo 2)
+
+width: 401px;
+height: 515px;
+background-color: #25a8ee;
+
+
+3rd - Container (Photo 3)
+
+width: 401px;
+height: 515px;
+background-color: #25a8ee;
+
+
+4th - Container (Photo 4)
+
+width: 400px;
+height: 515px;
+background-color: #25a8ee;
+
+
+5th - Container (Photo 5)
+
+width: 401px;
+height: 515px;
+background-color: #25a8ee;
+
+
+6th - Blank space
+Container
+
+width: 400px;
+height: 515px;
+background-color: #3f729b;
+
+
+
+
+
+
+
+MUSIC
+
+
+Container (Photo 6)
+
+width: 1600px;
+height: 900px;
+background-color: #000000;
+
+
+Blank space
+Container
+
+width: 400px;
+height: 900px;
+background-color: #282b2f;
+
+
+VIDEO TITLE
+
+Container
+
+width: 400px;
+height: 500px;
+background-color: #212227;
+
+
+Self-Effacing Rage
+
+font-size: 24px;
+line-height: 32px;
+color: #2ebd59;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+Director: James
+
+font-size: 14px;
+line-height: 21px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 400;
+
+
+Click to play
+
+font-size: 18px;
+line-height: 32px;
+color: #2ebd59;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+Button
+
+width: 176px;
+height: 49px;
+border-radius: 25px;
+background-color: #000000;
+border: 2px solid #2ebd59;
+
+
+SPOTIFY
+
+Container
+
+width: 800px;
+height: 515px;
+background-color: #2ebd59;
+
+
+Spotify
+
+font-size: 24px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+Follow me, stream
+
+font-size: 36px;
+letter-spacing: -1px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 300;
+
+
+Follow on Spotify
+
+font-size: 18px;
+letter-spacing: 4px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 700;
+text-align: center;
+
+
+Button copy
+
+width: 280px;
+height: 56px;
+border-radius: 28px;
+background-color: #25a8ee;
+border: 1.87px solid #ffffff;
+
+
+ITUNES
+
+Container
+
+width: 800px;
+height: 515px;
+background-color: #282b2f;
+
+
+Itunes
+
+font-size: 24px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+Buy and download from
+
+font-size: 36px;
+letter-spacing: -1px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 300;
+
+
+Buy from Itunes
+
+font-size: 18px;
+letter-spacing: 4px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 700;
+text-align: center;
+
+
+Button
+
+width: 254px;
+height: 56px;
+border-radius: 28px;
+background-color: #25a8ee;
+border: 1.87px solid #ffffff;
+
+
+
+
+
+
+
+FOOTER
+
+COLUMN 1
+
+Amazing dude. Amazing life.
+
+font-size: 18px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+Mauris ornare lobortis
+
+width: 280px;
+height: 332px;
+font-size: 14px;
+line-height: 21px;
+color: #919191;
+font-family: "Fira Sans";
+font-weight: 300;
+
+
+
+COLUMN 2
+
+Contact me
+
+font-size: 18px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+1242 Crestview Terra
+
+width: 280px;
+height: 98px;
+font-size: 14px;
+line-height: 21px;
+color: #919191;
+font-family: "Fira Sans";
+font-weight: 300;
+
+
+SOCIAL
+
+Follow me on
+
+font-size: 18px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+Icons
+
+width: 24px;
+height: 91px;
+font-size: 14px;
+line-height: 24px;
+color: #919191;
+font-family: "Font Awesome";
+text-align: center;
+
+
+
+<i class="fab fa-facebook-f"></i> f39e
+<i class="fab fa-twitter"></i> f099
+<i class="fab fa-instagram"></i> f16d
+<i class="fab fa-spotify"></i> f1bc
+
+
+
+
+Facebook Twitter Insta
+
+width: 86px;
+height: 91px;
+font-size: 14px;
+line-height: 24px;
+color: #919191;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+
+COLUMN 3
+
+
+SUBSCRIBE
+
+Subscribe
+
+font-size: 18px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+Duis collicitudin facili
+
+width: 480px;
+height: 55px;
+font-size: 14px;
+line-height: 21px;
+color: #919191;
+font-family: "Fira Sans";
+font-weight: 300;
+
+
+FORM
+
+width: 480px;
+height: 60px;
+background-color: #909193;
+
+
+Enter your email
+
+font-size: 14px;
+line-height: 21px;
+color: #919191;
+font-family: "Fira Sans";
+font-weight: 300;
+
+
+->
+
+font-size: 18px;
+line-height: 21px;
+color: #919191;
+font-family: "Font Awesome";
+
+
+
+SPONSOR
+
+Sponsor
+
+font-size: 18px;
+color: #f9f9f9;
+font-family: "Fira Sans";
+font-weight: 700;
+
+
+Image
+
+width: 80px;
+height: 80px;
+background-color: #000000;
+border: 1px solid #f4f8fb;
+
+
+Logo
+
+font-size: 12px;
+color: #f2f7fb;
+font-family: "Lato";
+font-weight: 700;
+
+<div class="form-group field-comments-name required">
+
+                        <label for="" class="fs_16 fw_m lh_24 d_b mb_10">Как вас зовут?<span class="def_blue pl_4">*</span></label>
+                        <div class="pos_rel for_close_field mb_20">
+                            <input type="text" id="comments-name" class="cf_text br_2" name="Comments[name]" placeholder="Ваше имя *" required="required" aria-required="true">
